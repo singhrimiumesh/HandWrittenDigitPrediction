@@ -1,0 +1,1 @@
+"Handwritten Digit Prediction - Classification Analysis" project is to develop a machine learning model that accurately identifies handwritten digits, leveraging techniques such as data preprocessing, model selection, training, and deployment.
